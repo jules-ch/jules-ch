@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jules-ch)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=B4BEFE&center=true&vCenter=true&repeat=false&random=true&width=700&height=70&lines=Hello!+It's+Jules)](https://git.io/typing-svg)
 
 
