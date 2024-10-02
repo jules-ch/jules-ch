@@ -10,6 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules-ch&layout=compact&theme=tokyonight&hide_border=true)
 
+📫 How to reach me: jules.cheron@gmail.com
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/julesch)
 
