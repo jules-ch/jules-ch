@@ -6,7 +6,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jules-ch&theme=tokyonight&show=discussions_started,discussions_answered,prs_merged,prs&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jules-ch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jules-ch&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules-ch&layout=compact&theme=tokyonight&hide_border=true)
 
