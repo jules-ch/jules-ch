@@ -6,8 +6,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jules-ch&theme=tokyonight&show=discussions_started,discussions_answered,prs_merged,prs&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jules-ch&theme=tokyonight)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules-ch&layout=compact&theme=tokyonight&hide_border=true)
 
 📫 How to reach me: jules.cheron@gmail.com
