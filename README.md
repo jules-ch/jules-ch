@@ -9,14 +9,14 @@ Passionate about software engineering, IoT, Geospatial data analytics, scientifi
 Environmental impact and sustainability is also something I deeply care about.
 
 
+📫 How to reach me: jules.cheron@gmail.com
+
+Mainly working with Python 🐍 and Rust 🦀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jules-ch&theme=tokyonight&show=discussions_started,discussions_answered,prs_merged,prs&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jules-ch&layout=compact&theme=tokyonight&hide_border=true)
 
-📫 How to reach me: jules.cheron@gmail.com
-
-Mainly working with Python 🐍 and Rust 🦀
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/julesch)
 
